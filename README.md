@@ -2,7 +2,7 @@
   <a href="https://open-codereview.ai">
     <img src="imgs/logo-core.svg" alt="OpenCodeReview logo" width="180" />
   </a>
-  <h1>OpenCodeReview</h1>
+  <h1>Rsskof</h1>
 </div>
 
 <p align="center">
